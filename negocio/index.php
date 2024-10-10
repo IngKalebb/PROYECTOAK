@@ -66,7 +66,7 @@ if (!empty($_SESSION['activa'])) {
             </div>
             <div class="col" style="background-color: pink;">
                 <div class="row">
-                    <h1 style="padding-top: 3%;">Autentificación</h1>
+                    <h1 style="padding-top: 3%;">Autentificación Abraham Kalebb Fuentes Vázquez</h1>
                 </div>
                 <form style="margin: 5%" method="POST">
                     <div>
