@@ -49,7 +49,7 @@
             </div>
             <div class="col" style="background-color: rgb(175,238,238);">
                 <div class="btn-group" role="group" aria-label="Basic example" style="margin-top: 65px;">
-
+                    <button>Cambio</button>
                 <?php
                 if ($_SESSION['rol']==1){
                 ?>
