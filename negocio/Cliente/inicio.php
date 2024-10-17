@@ -14,7 +14,7 @@
         include_once("include/encabezado.php");
         ?>
     </header>
-    <h2>Inicio</h2>
+    <h2>Inicio de GITHUB</h2>
     <!--Inicio Coursel-->
     <div class="container">
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
