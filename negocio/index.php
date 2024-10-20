@@ -61,8 +61,8 @@ if (!empty($_SESSION['activa'])) {
     </div>-->
     <div class="container" style="background-color: Transparent; margin-top:12%;">
         <div class="row" style="background-color: purple; text-align:center;">
-            <h2>Hola hermosa</h2>
-            <img src="cliente/img/kaleb.jpeg" alt="">
+                <h2>Hola, este es un cambio en GITHUB</h2>
+                <p>Y aqui se borro la imagen</p>
             <div class="col" style="background-color: rgb(192,192,192); padding: 6%;">
                 <img src="Cliente/img/logoGalletas.jpg" height="200px" width="200px">
             </div>
